@@ -1,0 +1,67 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    font-weight: 800;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.btn-edit {
+    width: 50px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: orange;
+
+    &:hover {
+        background-color: transparent !important;
+        color: #000;
+    }
+}
+.btn-delete {
+    width: 50px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: red;
+
+    &:hover {
+        background-color: transparent !important;
+        color: #000;
+    }
+}
+
+
+.modal-user-body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    justify-content: space-between;
+
+
+    .input-container {
+        width: calc(50% - 12px);
+
+        label {
+            display: block;
+            font-weight: 600;
+        }
+
+        input {
+            width: 100%;
+        }
+    }
+}

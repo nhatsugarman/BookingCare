@@ -1,0 +1,43 @@
+{
+
+    "homeheader": {
+        "speciality": "Chuyên khoa",
+        "searchdoctor": "Tìm bác sĩ theo chuyên khoa",
+        "health-facility": "Cơ sở y tế",
+        "select-room": "Chọn bệnh viện phòng khám",
+        "doctor": "Bác sĩ",
+        "select-doctor": "Chọn bác sĩ giỏi",
+        "fee": "Gói khám",
+        "check-health": "Khám sức khỏe tổng quát",
+        "support": "Hỗ trợ",
+        "welcome": "Xin chào "
+    },
+
+    "banner": {
+        "title1": "NỀN TẢNG Y TẾ",
+        "title2": "Chăm sóc sức khỏe toàn diện",
+        "child1": "Khám chuyên khoa",
+        "child2": "Khám từ xa",
+        "child3": "Khám tổng quát",
+        "child4": "Xét nghiệm y học",
+        "child5": "Sức khỏe tinh thần",
+        "child6": "Khám nha khóa"
+    },
+    "menu": {
+        "admin": {
+            "crud": "CRUD USER",
+            "crud-redux": "CRUD REDUX",
+            "manage-user": "Quản lý người dùng",
+            "manage-doctor": "Quản lý bác sĩ",
+            "manage-admin": "Quản lý admin",
+            "manage-clinic": "Quản lý phòng khám",
+            "clinic": "Phòng khám",
+            "specialty": "Chuyên khoa",
+            "handbook": "Cẩm nang",
+            "manage-handbook": "Quản lý Cẩm nang",
+            "manage-specialty": "Quản lsy chuyen khoa"
+
+        }
+    }
+
+}
